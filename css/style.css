@@ -13,11 +13,11 @@ h1 {
   font-weight: bold;
   color: khaki;
   text-align: center;
-  background: url("C:\Users\mariela\Documents\Projects\ArtsCrafts\images\pattern.jpeg");
-  background-image: url("./images/pattern.jpeg");
-  background-image: url("./images/pattern.jpeg");
-  background-image: url("pattern.jpeg");
-  background-image: url(pattern.jpeg);
+  /*background: url("C:\Users\mariela\Documents\Projects\ArtsCrafts\images\pattern.jpeg");
+  background-image: url("./images/pattern.jpeg");*/
+  background-image: url("../images/pattern.jpeg");
+  /*background-image: url("pattern.jpeg");
+  background-image: url(pattern.jpeg);*/
 }
 
 #brushes {
